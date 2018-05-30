@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bowler.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>2B1A529CF3E9E0B5F9158B78E08CBCA423DE8B3E</string>
+				<key>dateExpires</key>
+				<string>03/05/2019</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2B1A529CF3E9E0B5F9158B78E08CBCA423DE8B3E</string>
+						<key>dateExpires</key>
+						<string>03/05/2019</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftOSC.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>KQ8G8LP6L5</string>
+						<key>name</key>
+						<string>Charles Sicard</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2B1A529CF3E9E0B5F9158B78E08CBCA423DE8B3E</string>
+						<key>dateExpires</key>
+						<string>03/05/2019</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftWebSocket.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>KQ8G8LP6L5</string>
+						<key>name</key>
+						<string>Charles Sicard</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>KQ8G8LP6L5.com.sicard.Bowler</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>KQ8G8LP6L5</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>KQ8G8LP6L5.com.sicard.Bowler</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Bowler.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9c839f44-6207-40cd-ad0d-d925f10b0bbc</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.sicard.Bowler</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>KQ8G8LP6L5</string>
+				<key>name</key>
+				<string>Charles Sicard</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

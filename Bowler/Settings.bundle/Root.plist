@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>Title</key>
+	<string></string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>TVs</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>IP TV 1</string>
+			<key>Key</key>
+			<string>iptv1</string>
+			<key>DefaultValue</key>
+			<string>192.168.0.101</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>IP TV 2</string>
+			<key>Key</key>
+			<string>iptv2</string>
+			<key>DefaultValue</key>
+			<string>192.168.0.102</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>IP TV 3</string>
+			<key>Key</key>
+			<string>iptv3</string>
+			<key>DefaultValue</key>
+			<string>192.168.0.103</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>IP TV 4</string>
+			<key>Key</key>
+			<string>iptv4</string>
+			<key>DefaultValue</key>
+			<string>192.168.0.104</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>IP TV 5</string>
+			<key>Key</key>
+			<string>iptv5</string>
+			<key>DefaultValue</key>
+			<string>192.168.0.105</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>IP TV 6</string>
+			<key>Key</key>
+			<string>iptv6</string>
+			<key>DefaultValue</key>
+			<string>192.168.0.106</string>
+		</dict>
+		<dict>
+			<key>New item</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Audio Mixer</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>IP Mixer Audio</string>
+			<key>Key</key>
+			<string>ipxr</string>
+			<key>DefaultValue</key>
+			<string>192.168.0.120</string>
+		</dict>
+	</array>
+</dict>
+</plist>
